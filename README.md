@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">Journey before Destination.</h3>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 Finished Software Engineer last year, looking for learning opportunities
 
-- 🤝 I’m looking to collaborate on **Unity Platformer**
+- 🎮 Godot Developer
 
-- 👨‍💻 I’m studying **Computer Science Engineering**
+- 👨‍💻 Like to learn languages, play piano and play videogames on free time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
